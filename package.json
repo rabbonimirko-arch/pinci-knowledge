@@ -1,0 +1,16 @@
+{
+  "name": "pinci-knowledge",
+  "version": "1.0.0",
+  "description": "Knowledge immobiliare per avatar HeyGen basata sugli annunci di agence-pinci.com",
+  "main": "scrape-pinci.js",
+  "scripts": {
+    "scrape": "node scrape-pinci.js"
+  },
+  "author": "Mirko + ChatGPT",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "node-fetch": "^3.3.2"
+  },
+  "type": "module"
+}

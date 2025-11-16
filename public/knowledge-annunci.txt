@@ -1,0 +1,15 @@
+
+=== KNOWLEDGE AGENCE PINCI – ANNUNCI IMMOBILIARI ===
+File iniziale di esempio. Verrà aggiornato automaticamente da scrape-pinci.js.
+
+=== ANNUNCIO_ID: 1 ===
+Titolo: Esempio appartamento a Menton
+Zona: Menton (06500)
+Prezzo: 320.000 €
+Superficie: 55 m²
+Locali: 2 locali
+Camere: 1 camera
+Bagni: 1 bagno
+Descrizione: Esempio segnaposto per testare l'integrazione con HeyGen.
+Link: https://www.agence-pinci.com
+Sorgente: https://www.agence-pinci.com/it/ricerca
